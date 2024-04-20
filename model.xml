@@ -2,7 +2,7 @@
     chinese_name="Simple PIM v1.01"
     english_name="Product Information Management"
 >
-    <platform
+    <platform 
               
         name="PIM"
         founded="now()"
